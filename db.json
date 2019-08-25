@@ -2,7 +2,7 @@
   "project": [
     {
       "id": "1",
-      "libelle": "Gestion  des projets",
+      "libelle": "Gestion des projets",
       "description": "description 1",
       "date_debut": "2019-01-01",
       "date_fin_prevu": "2019-06-01",

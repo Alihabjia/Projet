@@ -8,7 +8,11 @@
       "date_fin_prevu": "2019-06-01",
       "date_fin_reel": "0000-00-00",
       "etat": "en cours",
-      "client": "SocialX"
+      "client": "SocialX",
+      "name1":"Finie",
+      "name2":"Restante",
+      "tachef":"70",
+      "tacher":"30"
     },
     {
       "id": 2,
@@ -17,8 +21,12 @@
       "date_debut": "2019-04-01",
       "date_fin_prevu": "2019-08-10",
       "date_fin_reel": "0000-00-00",
-      "etat": "en attente",
-      "client": "SocialX"
+      "etat": "en cours",
+      "client": "SocialX",
+      "name1":"Finie",
+      "name2":"Restante",
+      "tachef":"10",
+      "tacher":"90"
     },
     {
       "id": 3,
@@ -28,7 +36,11 @@
       "date_fin_prevu": "2019-12-20",
       "date_fin_reel": "0000-00-00",
       "etat": "en attente",
-      "client": "Sté BMD"
+      "client": "Sté BMD",
+      "name1":"Finie",
+      "name2":"Restante",
+      "tachef":"0",
+      "tacher":"0"
     },
     {
       "id": 4,
@@ -38,7 +50,11 @@
       "date_fin_prevu": "2020-02-10",
       "date_fin_reel": "0000-00-00",
       "etat": "en attente",
-      "client": "Sté BMD"
+      "client": "Sté BMD",
+      "name1":"Finie",
+      "name2":"Restante",
+      "tachef":"0",
+      "tacher":"0"
     }
   ]
 }

@@ -77,7 +77,7 @@
     ,
     {
       "id": 5,
-      "libelle": "Gestion personnel",
+      "libelle": "Gestion du personnel",
       "description": "Gestion compte, retard, performance, ...",
       "date_debut": "2019-06-10",
       "date_fin_prevu": "2019-12-30",
